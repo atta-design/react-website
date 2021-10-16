@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-website/static/css/main.0bb2d8d8.chunk.css",
-    "main.js": "/react-website/static/js/main.925f65f8.chunk.js",
-    "main.js.map": "/react-website/static/js/main.925f65f8.chunk.js.map",
-    "runtime-main.js": "/react-website/static/js/runtime-main.b569bcac.js",
-    "runtime-main.js.map": "/react-website/static/js/runtime-main.b569bcac.js.map",
-    "static/js/2.bfd02dc1.chunk.js": "/react-website/static/js/2.bfd02dc1.chunk.js",
-    "static/js/2.bfd02dc1.chunk.js.map": "/react-website/static/js/2.bfd02dc1.chunk.js.map",
+    "main.css": "/react-website/static/css/main.0c49cc42.chunk.css",
+    "main.js": "/react-website/static/js/main.0015e253.chunk.js",
+    "main.js.map": "/react-website/static/js/main.0015e253.chunk.js.map",
+    "runtime-main.js": "/react-website/static/js/runtime-main.e4528ab7.js",
+    "runtime-main.js.map": "/react-website/static/js/runtime-main.e4528ab7.js.map",
+    "static/js/2.568703c9.chunk.js": "/react-website/static/js/2.568703c9.chunk.js",
+    "static/js/2.568703c9.chunk.js.map": "/react-website/static/js/2.568703c9.chunk.js.map",
     "static/js/3.b613c345.chunk.js": "/react-website/static/js/3.b613c345.chunk.js",
     "static/js/3.b613c345.chunk.js.map": "/react-website/static/js/3.b613c345.chunk.js.map",
     "static/css/4.557cbbba.chunk.css": "/react-website/static/css/4.557cbbba.chunk.css",
-    "static/js/4.0993de04.chunk.js": "/react-website/static/js/4.0993de04.chunk.js",
-    "static/js/4.0993de04.chunk.js.map": "/react-website/static/js/4.0993de04.chunk.js.map",
-    "static/js/5.fc661968.chunk.js": "/react-website/static/js/5.fc661968.chunk.js",
-    "static/js/5.fc661968.chunk.js.map": "/react-website/static/js/5.fc661968.chunk.js.map",
+    "static/js/4.51369cb2.chunk.js": "/react-website/static/js/4.51369cb2.chunk.js",
+    "static/js/4.51369cb2.chunk.js.map": "/react-website/static/js/4.51369cb2.chunk.js.map",
+    "static/js/5.e24bff39.chunk.js": "/react-website/static/js/5.e24bff39.chunk.js",
+    "static/js/5.e24bff39.chunk.js.map": "/react-website/static/js/5.e24bff39.chunk.js.map",
     "index.html": "/react-website/index.html",
     "static/css/4.557cbbba.chunk.css.map": "/react-website/static/css/4.557cbbba.chunk.css.map",
-    "static/css/main.0bb2d8d8.chunk.css.map": "/react-website/static/css/main.0bb2d8d8.chunk.css.map",
-    "static/js/2.bfd02dc1.chunk.js.LICENSE.txt": "/react-website/static/js/2.bfd02dc1.chunk.js.LICENSE.txt",
+    "static/css/main.0c49cc42.chunk.css.map": "/react-website/static/css/main.0c49cc42.chunk.css.map",
+    "static/js/2.568703c9.chunk.js.LICENSE.txt": "/react-website/static/js/2.568703c9.chunk.js.LICENSE.txt",
     "static/js/3.b613c345.chunk.js.LICENSE.txt": "/react-website/static/js/3.b613c345.chunk.js.LICENSE.txt",
     "static/media/Copy-of-When-everything-seems-to-be-going-against-you-remember-that-the-airplane-takes-off-against-the-wind-not-with-it.-min.4e6bcbaf.png": "/react-website/static/media/Copy-of-When-everything-seems-to-be-going-against-you-remember-that-the-airplane-takes-off-against-the-wind-not-with-it.-min.4e6bcbaf.png",
     "static/media/Google-Trends-Redux-MobX.c577cbcd.webp": "/react-website/static/media/Google-Trends-Redux-MobX.c577cbcd.webp",
@@ -26,9 +26,9 @@
     "static/media/react-native.e3ccf862.png": "/react-website/static/media/react-native.e3ccf862.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b569bcac.js",
+    "static/js/runtime-main.e4528ab7.js",
     "static/js/3.b613c345.chunk.js",
-    "static/css/main.0bb2d8d8.chunk.css",
-    "static/js/main.925f65f8.chunk.js"
+    "static/css/main.0c49cc42.chunk.css",
+    "static/js/main.0015e253.chunk.js"
   ]
 }
