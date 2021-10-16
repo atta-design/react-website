@@ -3,15 +3,15 @@
     "main.css": "/react-website/static/css/main.0bb2d8d8.chunk.css",
     "main.js": "/react-website/static/js/main.925f65f8.chunk.js",
     "main.js.map": "/react-website/static/js/main.925f65f8.chunk.js.map",
-    "runtime-main.js": "/react-website/static/js/runtime-main.a0ac36ac.js",
-    "runtime-main.js.map": "/react-website/static/js/runtime-main.a0ac36ac.js.map",
+    "runtime-main.js": "/react-website/static/js/runtime-main.b569bcac.js",
+    "runtime-main.js.map": "/react-website/static/js/runtime-main.b569bcac.js.map",
     "static/js/2.bfd02dc1.chunk.js": "/react-website/static/js/2.bfd02dc1.chunk.js",
     "static/js/2.bfd02dc1.chunk.js.map": "/react-website/static/js/2.bfd02dc1.chunk.js.map",
     "static/js/3.b613c345.chunk.js": "/react-website/static/js/3.b613c345.chunk.js",
     "static/js/3.b613c345.chunk.js.map": "/react-website/static/js/3.b613c345.chunk.js.map",
     "static/css/4.557cbbba.chunk.css": "/react-website/static/css/4.557cbbba.chunk.css",
-    "static/js/4.cf1134b4.chunk.js": "/react-website/static/js/4.cf1134b4.chunk.js",
-    "static/js/4.cf1134b4.chunk.js.map": "/react-website/static/js/4.cf1134b4.chunk.js.map",
+    "static/js/4.0993de04.chunk.js": "/react-website/static/js/4.0993de04.chunk.js",
+    "static/js/4.0993de04.chunk.js.map": "/react-website/static/js/4.0993de04.chunk.js.map",
     "static/js/5.fc661968.chunk.js": "/react-website/static/js/5.fc661968.chunk.js",
     "static/js/5.fc661968.chunk.js.map": "/react-website/static/js/5.fc661968.chunk.js.map",
     "index.html": "/react-website/index.html",
@@ -26,7 +26,7 @@
     "static/media/react-native.e3ccf862.png": "/react-website/static/media/react-native.e3ccf862.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a0ac36ac.js",
+    "static/js/runtime-main.b569bcac.js",
     "static/js/3.b613c345.chunk.js",
     "static/css/main.0bb2d8d8.chunk.css",
     "static/js/main.925f65f8.chunk.js"
